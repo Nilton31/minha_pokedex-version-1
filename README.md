@@ -1,10 +1,10 @@
 # Projeto de Pokédex Web 
-## Introdução
+## 📖 Introdução
  Objetivo do desenvolvimento desse website é torna responsivo para as midias moveis utilizado o framework bootstrap
  e seu o layout de colunas (col) e linhas (row).
 
  
- ## entredendo a responsividade
+ ## 💡 entredendo a responsividade
  ### Row
  Como foi dito anteriormente o nosso site usufrui do boostrap do layout col e row quando o conteúdo ser encontra no 
  dispositivo movel na orientação horizontal a class row entrara em ação organizado as nossas colunas (col) de forma horizontal
@@ -16,3 +16,5 @@
  O col são as colunas elas são responsáveis por dividir os conteúdos e armazená-los o dispositivo na sua forma vertical
  as cols ficaram uma abaixo da outra e ultilizadas em conjunto com row temos a responsividade básica, ou seja, uma ao lado da outra 
  para o nosso síte se adapta a diferentes dispositivos.
+ 
+![col](https://github.com/user-attachments/assets/45727635-0b3c-4fe2-b9af-281e0004c6c3)
